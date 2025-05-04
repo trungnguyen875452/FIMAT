@@ -1,0 +1,51 @@
+{
+    "id": "OnOffPluginUnit:1:1",
+    "type": "OnOffPluginUnit",
+    "vendorName": {
+      "type": "Text",
+      "value": "Tapo"
+    },
+    "vendorID": {
+      "type": "Number",
+      "value": 5010
+    },
+    "productName": {
+      "type": "Text",
+      "value": "Smart Wi-Fi Plug"
+    },
+    "productID": {
+      "type": "Number",
+      "value": 262
+    },
+    "location": {
+      "type": "Text",
+      "value": ""
+    },
+    "softwareVersion": {
+      "type": "Number",
+      "value": 65536
+    },
+    "softwareVersionString": {
+      "type": "Text",
+      "value": "1.0.0"
+    },
+    "serialNumber": {
+      "type": "Text",
+      "value": "3C64CF5D025F"
+    },
+    "uniqueID": {
+        "type": "Text",
+        "value": "6C74474DD847F890"
+      },
+    "caseSessionsPerFabric": {
+      "type": "Number",
+      "value": 3
+    },
+    "subscriptionsPerFabric": {
+        "type": "Number",
+        "value": 3
+    },"onOff": {
+        "type": "Boolean",
+        "value": true
+    }
+  }

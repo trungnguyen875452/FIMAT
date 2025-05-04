@@ -1,0 +1,15 @@
+{
+    "id": "urn:ngsi-ld:OnOffPluginUnit:onOffPluginUnit:1:1",
+    "type": "OnOffPluginUnit",
+    "refDeviceProfile": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:DeviceProfile:deviceProfile:onOffPluginUnit:1:1"
+    },
+    "onOff": {
+      "type": "Property",
+      "value": true
+    },
+    "@context": [
+      "https://example.com/smart-data-models/dataModel.matter.jsonld"
+    ]
+  }
